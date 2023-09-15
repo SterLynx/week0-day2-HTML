@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(245, 218, 160);
+}
+
+.ul-links {
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: 900;
+    color: black;
+}
+
+li {
+    display: inline;
+    margin: 40px;
+}
+#first>a {
+    text-decoration: none;
+}
+nav {
+    border: solid 2px;
+    border-radius: 6px;
+    padding: 12px;
+    margin: 3px;
+}
+header {
+    text-align: center;
+    background-color: beige;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
